@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  EarlyBird.cpp
+EarlyBird.cpp(63): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'UINT'
+EarlyBird.cpp(63): warning C4302: 'type cast': truncation from 'LPVOID' to 'UINT'
+EarlyBird.cpp(85): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+EarlyBird.cpp(85): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EarlyBird.vcxproj -> C:\Users\fitzl\source\repos\EarlyBird\x64\Release\EarlyBird.exe

@@ -1,0 +1,6 @@
+﻿  EarlyBird.cpp
+c:\users\fitzl\source\repos\earlybird\earlybird\earlybird.cpp(63): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'UINT'
+c:\users\fitzl\source\repos\earlybird\earlybird\earlybird.cpp(63): warning C4302: 'type cast': truncation from 'LPVOID' to 'UINT'
+c:\users\fitzl\source\repos\earlybird\earlybird\earlybird.cpp(85): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\fitzl\source\repos\earlybird\earlybird\earlybird.cpp(85): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+  EarlyBird.vcxproj -> C:\Users\fitzl\source\repos\EarlyBird\x64\Debug\EarlyBird.exe
